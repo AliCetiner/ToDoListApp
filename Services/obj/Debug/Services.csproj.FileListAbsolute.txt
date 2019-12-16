@@ -1,0 +1,9 @@
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\Services\bin\Debug\Services.dll
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\Services\bin\Debug\Services.pdb
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\Services\bin\Debug\DAL.dll
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\Services\bin\Debug\DAL.pdb
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\Services\obj\Debug\Services.dll
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\Services\obj\Debug\Services.pdb

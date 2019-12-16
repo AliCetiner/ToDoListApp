@@ -1,0 +1,5 @@
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\DAL\bin\Debug\DAL.dll
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\DAL\bin\Debug\DAL.pdb
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\DAL\obj\Debug\DAL.dll
+C:\Users\Ali\Desktop\Projelerim\ToDoListApplication\DAL\obj\Debug\DAL.pdb
